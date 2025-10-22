@@ -58,5 +58,5 @@ Through Scrum ceremonies like retrospectives and sprint reviews, I saw how open 
 ## Summary
 
 This portfolio artifact represents how I applied **Agile principles** in real-world software development scenarios.  
-It highlights my understanding of **user-focused design**, **iterative development**, and **collaborative teamwork**—skills that will continue guiding my growth as a software developer.
+It highlights my understanding of **user-focused design**, **iterative development**, and **collaborative teamwork** skills that will continue guiding my growth as a software developer.
 
